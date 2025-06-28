@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=JunHee%20Lee&fontSize=35&animation=fadeIn)
-
+---
 ### 🔧 Skills
 - **Backend**: Java(Spring), Python(Django, Flask)  
 - **Frontend**: React, JavaScript, jQuery  
@@ -17,6 +16,4 @@
 
 ### 📫 Contact
 - Email: leejunhee1219@kakao.com  
-- GitHub: [junhee1219](https://github.com/junhee1219)
-
 ---
