@@ -1,4 +1,3 @@
----
 ### 🔧 Skills
 - **Backend**: Java(Spring), Python(Django, Flask)  
 - **Frontend**: React, JavaScript, jQuery  
