@@ -1,16 +1,22 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=JunHee%20Lee&fontSize=35&animation=fadeIn)
 
-<!--
-**junhee1219/junhee1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Skills
+- **Backend**: Java(Spring), Python(Django, Flask)  
+- **Frontend**: React, JavaScript, jQuery  
+- **DB**: PostgreSQL, MariaDB  
+- **Etc**: OCR, CNN 모델 기반 분류, LLM API 활용 자동화
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![JunHee's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhee1219&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhee1219&layout=compact)
+
+---
+
+### 📫 Contact
+- Email: leejunhee1219@kakao.com  
+- GitHub: [junhee1219](https://github.com/junhee1219)
+
+---
