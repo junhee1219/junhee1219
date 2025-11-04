@@ -1,6 +1,6 @@
 
 ### 🔧 Skills
-- **Backend**: Java(Spring), Python(Django, Flask)  
+- **Backend**: Java/Kotlin(Spring), Python(Django, Flask)  
 - **Frontend**: React, JavaScript, jQuery  
 - **DB**: PostgreSQL, MariaDB  
 - **Etc**: OCR, CNN 모델 기반 분류, LLM API 활용 자동화
