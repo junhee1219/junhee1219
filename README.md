@@ -1,5 +1,3 @@
-# 👋 Hello, I'm JunHee
-
 ### 🚀 Featured Project
 **[Toonify (toonify.kr)](https://toonify.kr)**
 > **AI 기반 네컷 만화 생성 서비스**
