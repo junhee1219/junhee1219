@@ -16,15 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junhee1219&show_icons=true&theme=transparent&hide_border=true" alt="JunHee's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhee1219&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
 ### 📫 Contact
 - **Email**: leejunhee1219@kakao.com
 - **Service**: [toonify.kr](https://toonify.kr)
