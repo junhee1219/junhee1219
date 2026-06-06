@@ -7,12 +7,9 @@
 ---
 
 ### 🔧 Tech Stack
-| Category | Skills |
-| :--- | :--- |
-| **Backend** | Java/Kotlin (Spring), Python (Django, FastAPI, Flask) |
-| **Frontend** | React, JavaScript, jQuery |
-| **Database** | PostgreSQL, MariaDB, SQlite |
-| **Others** | OCR, CNN 모델 기반 분류, LLM API 활용 자동화 |
+~~Java/Kotlin (Spring), Python, React, PostgreSQL, OCR, CNN...~~
+
+**AI**
 
 ---
 
