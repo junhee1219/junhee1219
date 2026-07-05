@@ -5,7 +5,7 @@
 
 **[mini game (mini-game.kr)](https://mini-game.kr)**
 > **미니게임 모음집**
-> * 심리학 playbook에 따라서 기획부터 개발까지 AI가 개발한 게임 모음집
+> * 심리학 playbook 기반, AI 하네스로 기획부터 개발까지
 
 ---
 
