@@ -18,4 +18,3 @@
 
 ### 📫 Contact
 - **Email**: leejunhee1219@kakao.com
-- **Service**: [toonify.kr](https://toonify.kr)
